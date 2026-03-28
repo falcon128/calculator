@@ -1,0 +1,23 @@
+body {
+    background-color: #61bfee;
+    font-family: Arial, sans-serif;
+    
+}
+
+button {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+    background-color: aliceblue;
+    width: 25px;
+    height: 25px;
+
+}
+button[type="button1"] {
+    color: rgb(0, 0, 0);
+    background-color: green;
+}
