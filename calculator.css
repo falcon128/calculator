@@ -1,5 +1,5 @@
 body {
-    background-color: #61bfee;
+    background-color: #848484;
     font-family: Arial, sans-serif;
     
 }
@@ -13,11 +13,12 @@ button {
     margin: 2px 2px;
     cursor: pointer;
     background-color: aliceblue;
-    width: 25px;
-    height: 25px;
+    width: 35px;
+    height: 30px;
 
 }
-button[type="button1"] {
+button[class="button operator"] {
     color: rgb(0, 0, 0);
     background-color: green;
+    text-align: center;
 }
